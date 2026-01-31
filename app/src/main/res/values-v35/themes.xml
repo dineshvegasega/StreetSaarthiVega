@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.StreetSaarthi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryVariant">@color/app_color</item>
+        <item name="colorOnPrimary">@color/_ffffff</item>
+        <item name="colorSecondary">@color/app_color</item>
+        <item name="colorSecondaryVariant">@color/app_color</item>
+        <item name="colorOnSecondary">@color/_000000</item>
+        <item name="android:statusBarColor">@color/_E2861d</item>
+        <item name="android:navigationBarColor">@color/_e8ebee</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <!--        <item name="android:windowIsFloating">false</item>-->
+
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:ignore="NewApi">
+            @android:color/transparent
+        </item>
+        <item name="android:windowSplashScreenAnimationDuration" tools:ignore="NewApi">0
+        </item>
+
+
+    </style>
+
+    <style name="AppTheme.RazorpayCheckout" parent="CheckoutTheme">
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+
+
+    <style name="AppTheme.NoEdge" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/_E2861d</item>
+        <item name="android:navigationBarColor">@color/_e8ebee</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+
+
+</resources>

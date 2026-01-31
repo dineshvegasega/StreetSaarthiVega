@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480382736574",
+    "project_id": "streetsaarthi-f0ef7",
+    "storage_bucket": "streetsaarthi-f0ef7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480382736574:android:5111c693ba79e6907426ef",
+        "android_client_info": {
+          "package_name": "com.vegasega.streetsaarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqrSqm6Q271vRoV3PWsZW59W1y2vREHew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

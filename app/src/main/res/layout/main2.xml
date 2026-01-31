@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btApply"
+        style="@style/PrimaryButtonYellow"
+        app:backgroundTint="@color/_E79D46"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingHorizontal="@dimen/_20sdp"
+        android:paddingVertical="@dimen/_7sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:text="@string/apply"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_11sdp"
+        app:cornerRadius="@dimen/_4sdp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        android:layout_marginStart="@dimen/_15sdp"
+
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

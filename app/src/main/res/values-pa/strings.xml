@@ -1,0 +1,624 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="click_here_to_agree_to_the"><![CDATA[ਸਹਿਮਤ ਹੋਣ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ]]></string>
+    <string name="terms_amp_conditions"><u>ਸ਼ਰਤਾਂ &amp; ਸ਼ਰਤਾਂ</u></string>
+
+
+    <string name="Pleaseselectagree">ਕਿਰਪਾ ਕਰਕੇ ਸ਼ਰਤਾਂ \'ਤੇ ਸਹਿਮਤ ਚੁਣੋ &amp; ਹਾਲਾਤ</string>
+
+    <string name="title">ਸਿਰਲੇਖ</string>
+    <string name="submit">ਸਬਮਿਟ ਕਰੋ</string>
+    <string name="no_internet_connection">ਕੋਈ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ</string>
+
+    <string name="quick_registation">ਤੁਰੰਤ ਰਜਿਸਟ੍ਰੇਸ਼ਨ</string>
+    <string name="loginWithPassword">ਪਾਸਵਰਡ ਨਾਲ ਲੌਗਇਨ ਕਰੋ</string>
+    <string name="loginWithMobileOTP"> ਮੋਬਾਈਲ ਓਟੀਪੀ ਨਾਲ ਲੌਗਇਨ ਕਰੋ</string>
+    <string name="enterOtp">ਇੱਥੇ ਓਟੀਪੀ ਦਰਜ ਕਰੋ</string>
+
+    <string name="completeProfileRegistration">ਪੂਰੀ ਪ੍ਰੋਫਾਈਲ ਰਜਿਸਟ੍ਰੇਸ਼ਨ</string>
+    <string name="fast_process">ਤੇਜ਼ ਪ੍ਰਕਿਰਿਆ</string>
+    <string name="login_here">ਇੱਥੇ ਲਾਗਇਨ ਕਰੋ</string>
+    <string name="enter_your_login_details_here">ਇੱਥੇ ਆਪਣਾ ਲਾਗਇਨ ਵੇਰਵਾ ਦਰਜ ਕਰੋ</string>
+    <string name="login_with_otp">ਓਟੀਪੀ ਤੋਂ ਕਰੋ</string>
+    <string name="quick_registration">ਤੁਰੰਤ ਰਜਿਸਟ੍ਰੇਸ਼ਨ </string>
+    <string name="enter_your_details_for_quick_register">ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਲਈ ਆਪਣਾ ਵੇਰਵਾ ਦਰਜ ਕਰੋ</string>
+    <string name="first_name">ਪਹਿਲਾ ਨਾਂ</string>
+
+    <string name="last_name">ਆਖਰੀ ਨਾਂਮ</string>
+
+    <string name="createPassword">ਪਾਸਵਰਡ ਬਣਾਓ</string>
+
+    <string name="EnterPassword">ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ</string>
+    <string name="reEnterPassword">ਪਾਸਵਰਡ ਪੱਕਾ ਕਰੋ</string>
+
+
+
+   <string name="enterMobileNumber">ਵੈਧ ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ</string>
+
+    <string name="login">ਲਾਗਿਨ</string>
+
+
+    <string name="explore_app">ਐਪ ਦੀ ਪੜਚੋਲ ਕਰੋ</string>
+
+    <string name="register">ਰਜਿਸਟਰ ਕਰੋ</string>
+
+    <string name="LearnAboutSchemes">ਸਕੀਮਾਂ ਬਾਰੇ ਜਾਣੋ</string>
+    <string name="ComplaintRedressal">ਸ਼ਿਕਾਇਤ ਨਿਵਾਰਕ</string>
+    <string name="KnowYourRights">ਆਪਣੇ ਅਧਿਕਾਰਾਂ ਨੂੰ ਜਾਣੋ</string>
+
+    <string name="desc1">ਤਾਜ਼ਾ ਯੋਜਨਾਵਾਂ ਬਾਰੇ ਜਾਣੋ ਜੋ ਤੁਹਾਡੇ ਲਈ ਲਾਗੂ ਹਨ.</string>
+    <string name="desc2">ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਸ਼ਿਕਾਇਤਾਂ ਦੀ ਤੇਜ਼ ਫਾਈਲਿੰਗ, ਨਿਗਰਾਨੀ ਅਤੇ ਸਮੇਂ ਸਿਰ ਰੈਜ਼ੋਲਿ .ਸ਼ਨ.</string>
+    <string name="desc3">ਇੱਥੇ ਸਿੱਖੋ ਕਿ ਤੁਹਾਡੇ ਕਾਨੂੰਨੀ ਅਤੇ ਨਾਗਰਿਕ ਅਧਿਕਾਰ ਕੀ ਹਨ, ਉਨ੍ਹਾਂ ਨੂੰ ਕਿਵੇਂ ਅਭਿਆਸ ਕਰਨਾ ਹੈ.</string>
+
+    <string name="SelectLanguage">ਭਾਸ਼ਾ ਚੁਣੋ</string>
+
+
+
+
+    <string name="RegisterHere">ਇੱਥੇ ਰਜਿਸਟਰ ਕਰੋ</string>
+   <string name="SelectYourchoiceofregistration">ਆਪਣੀ ਪਸੰਦ ਦੀ ਚੋਣ ਕਰਨ ਲਈ ਰਜਿਸਟਰ ਕਰੋ</string>
+    <string name="continues">ਜਾਰੀ ਰੱਖੋ</string>
+
+
+    <string name="mobileNumber">ਮੋਬਾਇਲ ਨੰਬਰ</string>
+    <string name="YourPassword">ਤੁਹਾਡਾ ਪਾਸਵਰड</string>
+    <string name="register_for_new_account">ਖਾਤੇ ਲਈ ਰਜਿਸਟਰੇਸ਼ਨ ਕਰ ਸਕਦੇ ਹੋ?</string>
+    <string name="Forgot">ਭੁੱਲ ਗਿਆ</string>
+    <string name="ForgotPassword">ਪਾਸਵਰਡ ਭੁੱਲ ਗਿਆ</string>
+    <string name="EnterDetailstoSetpassword">ਪਾਸਵਰਡ ਸੈੱਟ ਕਰਨ ਲਈ ਵੇਰਵਾ ਦਰਜ ਕਰੋ</string>
+    <string name="send_otp">ਓਟੀਪੀ ਭੇਜੋ</string>
+    <string name="verify_otp">OTP ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="set_password">ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ</string>
+    <string name="back_to_login">ਲੌਗਇਨ ਕਰਨ ਲਈ ਵਾਪਸ</string>
+    <string name="back">ਵਾਪਸ</string>
+    <string name="enter_details_to_register_with_us">ਸਾਡੇ ਨਾਲ ਰਜਿਸਟਰ ਕਰਨ ਲਈ ਵੇਰਵੇ ਦਰਜ ਕਰੋ</string>
+    <string name="profile_details">ਪ੍ਰੋਫਾਈਲ ਵੇਰਵੇ</string>
+    <string name="registration_successful">ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਸਫਲ</string>
+    <string name="someone_from_our_team_will_contact_you_within_48hrs_to_verify_your_registration">ਸਾਡੀ ਟੀਮ ਦਾ ਕੋਈ ਵਿਅਕਤੀ ਤੁਹਾਡੀ ਰਜਿਸਟਰੀਕਰਣ ਦੀ ਤਸਦੀਕ ਕਰਨ ਲਈ 48 ਵਜੇ ਅੰਦਰ ਤੁਹਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੇਗਾ.</string>
+
+    <string name = "RegisterNow">ਹੁਣੇ ਰਜਿਸਟਰ ਕਰੋ</string>
+
+    <string name="resendOtp">ਓਟੀਪੀ ਦੁਬਾਰਾ ਭੇਜੋ</string>
+    <string name="OTPnotverified">OTP ਪ੍ਰਮਾਣਿਤ ਨਹੀਂ ਹੈ</string>
+    <string name="YourNewPassword">ਤੁਹਾਡਾ ਨਵਾਂ ਪਾਸਵਰਡ</string>
+    <string name="back_to_home">ਵਾਪਸ ਘਰ</string>
+    <string name="back_to_home_u"><u>ਵਾਪਸ ਘਰ</u></string>
+    <string name = "CreatePasswordReEnterPasswordisnotsame">*ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ</string>
+
+    <string name="InvalidPassword">*ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ ਜਿਸ ਵਿੱਚ 1 ਅੱਪਰਕੇਸ, 1 ਲੋਅਰਕੇਸ, 1 ਨੰਬਰ ਅਤੇ 1 ਖਾਸ ਅੱਖਰ</string>
+    <string name="father_s_first_name">ਪਿਤਾ ਦਾ ਪਹਿਲਾ ਨਾਮ</string>
+    <string name="father_s_last_name">ਪਿਤਾ ਦਾ ਆਖਰੀ ਨਾਮ </string>
+    <string name="gender">ਲਿੰਗ</string>
+    <string name="date_of_birth">ਜਨਮ ਤਾਰੀਖ</string>
+    <string name="social_category">वर्ग</string>
+    <string name="education_qualifacation">ਸਿੱਖਿਆ ਯੋਗਤਾ</string>
+    <string name="select_state">ਰਾਜ</string>
+    <string name="select_district">ਜ਼ਿਲ੍ਹਾ</string>
+    <string name="municipality_panchayat">ਮਿਉਂਸਪੈਲਟੀ / ਨਗਰਪਾਲਿਕਾ</string>
+    <string name="select_pincode">ਪਿੰਨ ਕੋਡ</string>
+    <string name="marital_status">ਵਿਵਾਹਿਕ ਦਰਜਾ</string>
+    <string name="spouse_s_name">ਪਤੀ / ਪਤਨੀ ਦਾ ਨਾਮ</string>
+    <string name="enter_address">ਪਤਾ ਦਰਜ ਕਰੋ</string>
+    <string name="current_residential_address">ਮੌਜੂਦਾ ਰਿਹਾਇਸ਼ੀ ਪਤਾ</string>
+    <string name = "age_minimum">ਤੁਹਾਡੀ ਉਮਰ ਘੱਟੋ-ਘੱਟ 14 ਸਾਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ</string>
+    <string name="type_of_market_place">ਮਾਰਕੀਟ ਸਥਾਨ ਦੀ ਕਿਸਮ</string>
+    <string name="type_of_vending">ਵਿਕਰੇਤਾ ਦੀ ਕਿਸਮ</string>
+    <string name="total_years_of_vending">ਵਿਕਰੇਤਾ ਦੇ ਕੁੱਲ ਸਾਲ</string>
+    <string name="current_location_of_business">ਮੌਜੂਦਾ ਵੈਂਡਿੰਗ ਪਤਾ</string>
+    <string name="upload_shop_image">ਦੁਕਾਨ ਦਾ ਚਿੱਤਰ ਅੱਪਲੋਡ ਕਰੋ</string>
+    <string name="upload_cov">ਸੀਓਵੀ ਅਪਲੋਡ ਕਰੋ</string>
+    <string name="upload_lor">ਅਪਲੋਡ ਕਰੋ</string>
+    <string name="camera">ਕੈਮਰਾ</string>
+    <string name="open_camera_to_capture_image">ਚਿੱਤਰ ਕੈਪਚਰ ਕਰਨ ਲਈ ਕੈਮਰਾ ਖੋਲ੍ਹੋ</string>
+    <string name="photos">ਫ਼ੋਟੋਆਂ</string>
+    <string name="browse_images_from_gallery">ਗੈਲਰੀ ਤੋਂ ਚਿੱਤਰ ਬ੍ਰਾਊਜ਼ ਕਰੋ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="choose_your_preference">ਆਪਣੀ ਤਰਜੀਹ ਚੁਣੋ</string>
+    <string name="complete_profile_registration">ਪੂਰੀ ਪ੍ਰੋਫਾਈਲ ਰਜਿਸਟ੍ਰੇਸ਼ਨ</string>
+    <string name="otp_verification">OTP ਪੁਸ਼ਟੀਕਰਨ</string>
+    <string name="current_vending_address">ਮੌਜੂਦਾ ਵੈਂਡਿੰਗ ਪਤਾ</string>
+    <string name="vending_time">ਵੈਂਡਿੰਗ ਟਾਈਮ</string>
+    <string name="to">सਨੂੰ</string>
+    <string name="open">ਖੋਲ੍ਹੋ</string>
+    <string name="close">ਬੰਦ ਕਰੋ</string>
+    <string name="open_time">ਖੁੱਲਾ</string>
+    <string name="close_time">ਨੇੜੇ</string>
+    <string name="document_details">ਦਸਤਾਵੇਜ਼ ਵੇਰਵੇ</string>
+    <string name="do_you_have_vending_documents">ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਡੈਂਡਿੰਗ ਦਸਤਾਵੇਜ਼ ਹਨ?</string>
+    <string name="do_you_have_government_scheme">ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਸਰਕਾਰੀ ਸਕੀਮ ਦਾ ਲਾਭ ਲਿਆ ਹੈ?</string>
+
+    <string name="cov_lor_survey_receipt_challan_approval_letter_from_municipal_body">(COV / Lor / ਸਰਵੇ ਦੀ ਰਸੀਦ / ਮਿ municipal ਂਸਪਲ ਬਾਡੀ ਤੋਂ ਚੇਲਿਆਂ / ਪ੍ਰਵਾਨਗੀ ਪੱਤਰ)</string>
+    <string name="government_scheme">ਸਰਕਾਰੀ ਯੋਜਨਾ</string>
+    <string name="yes">ਹਾਂ</string>
+    <string name="no">ਨਹੀਂ</string>
+    <string name="upload_survey_receipt">ਅਪਲੋਡ ਸਰਵੇ ਦੀ ਰਸੀਦ</string>
+    <string name="upload_challan">ਅਪਲੋਡ ਕਰਨ ਲਈ</string>
+    <string name="upload_approval_letter_from_municipality">ਮਿ municipality ਂਸਪੈਲਟੀ ਤੋਂ ਪ੍ਰਵਾਨਗੀ ਪੱਤਰ ਅਪਲੋਡ ਕਰੋ</string>
+    <string name="pm_swanidhi_scheme">ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਸਵਾਨੀਧੀ ਯੋਜਨਾ</string>
+    <string name="others_please_name">ਦੂਸਰੇ, ਕਿਰਪਾ ਕਰਕੇ ਨਾਮ ਦੱਸੋ</string>
+    <string name="scheme_name">ਸਕੀਮ ਦਾ ਨਾਮ</string>
+    <string name="professional_details">ਨਿੱਜੀ ਵੇਰਵੇ</string>
+    <string name="personal_details">Personal\nDetails</string>
+    <string name="professional_details_2">ਪੇਸ਼ੇਵਰ ਵੇਰਵੇ</string>
+    <string name="SetPassword_details">ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ</string>
+    <string name="passport_size_image">ਪਾਸਪੋਰਟ ਆਕਾਰ ਚਿੱਤਰ</string>
+    <string name="upload_media">ਮੀਡੀਆ ਅੱਪਲੋਡ ਕਰੋ</string>
+    <string name="aadhar_voter_id_pan_card_driving_license">(ਆਧਾਰ / ਵੋਟਰ ਆਈਡੀ / ਪੈਨ ਕਾਰਡ / ਡਰਾਈਵਿੰਗ ਲਾਇਸੈਂਸ)</string>
+    <string name="address_mention_village">ਪਤਾ (ਪਿੰਡ ਦਾ ਜ਼ਿਕਰ ਕਰੋ)</string>
+    <string name="upload_shop">ਦੁਕਾਨ ਦਾ ਚਿੱਤਰ ਅੱਪਲੋਡ ਕਰੋ</string>
+    <string name="identification_image">ਪਛਾਣ ਚਿੱਤਰ</string>
+
+
+    <string-array name="gender_array">
+        <item>ਨਰ</item>
+        <item>ਔਰਤ</item>
+        <item>ਹੋਰ</item>
+    </string-array>
+
+
+
+    <string-array name="years_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+    </string-array>
+
+
+    <string-array name="socialCategory_array">
+        <item>ST</item>
+        <item>SC</item>
+        <item>GEN</item>
+        <item>OBC</item>
+        <item>PWD</item>
+    </string-array>
+
+
+
+    <string-array name="socialEducation_array">
+        <item>ਕੋਈ ਸਿੱਖਿਆ ਨਹੀਂ</item>
+        <item>ਪਹਿਲੀ ਸਿੱਖਿਆ (ਪਹਿਲੀ ਤੋਂ ਪੰਜਵੀਂ ਤਕ)</item>
+        <item>ਮਿਡਲ ਸਿੱਖਿਆ (ਛਠੀ ਤੋਂ 9ਵੀਂ)</item>
+        <item>ਉੱਚ ਸਿੱਖਿਆ (10ਵੀਂ ਤੋਂ 12ਵੀਂ)</item>
+        <item>ਡਿਗਰੀ</item>
+        <item>ਡਿਗਰੀ ਕੋਰਸ</item>
+    </string-array>
+
+
+
+    <string name="married">ਵਿਆਹਿਤ</string>
+    <string-array name="maritalStatus_array">
+        <item>ਅਕੇਲਾ</item>
+        <item>ਵਿਆਹਿਤ</item>
+        <item>ਵਿਧਾਵਾ</item>
+        <item>ਤਲਾਕਸ਼ੁਦਾ</item>
+        <item>ਵੱਖ-ਵੱਖ</item>
+    </string-array>
+
+
+
+
+    <string name="or">ਜਾਂ</string>
+    <string name = "enterOtpHere"> OTP ਇੱਥੇ ਦਾਖਲ ਕਰੋ</string>
+    <string name="img_description">ਇਹ ਇੱਕ ਚਿੱਤਰ ਹੈ</string>
+    <string name="logout">ਲੌਗਆਊਟ</string>
+    <string name="are_your_sure_want_to_logout">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਹੋ, ਤੁਸੀਂ ਲੌਗਆਊਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="enter_market_place">ਮਾਰਕੀਟ ਪਲੇਸ ਵਿੱਚ ਦਾਖਲ ਹੋਵੋ</string>
+    <string name="enter_vending">ਵੇਂਡਿੰਗ ਦਾਖਲ ਕਰੋ</string>
+    <string name="select_scheme">ਸਕੀਮ ਚੁਣੋ</string>
+
+    <string name="profiles">ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="live_schemes">ਲਾਈਵ ਸਕੀਮਾਂ</string>
+    <string name="all_schemes">ਸਾਰੀਆਂ ਸਕੀਮਾਂ</string>
+    <string name="live_notices">ਲਾਈਵ ਨੋਟਿਸ</string>
+    <string name="all_notices">ਸਾਰੇ ਨੋਟਿਸ</string>
+    <string name="live_training">ਲਾਈਵ ਟਰੇਨਿੰਗ</string>
+    <string name="all_training">ਸਾਰੀ ਸਿਖਲਾਈ</string>
+    <string name="complaints_feedback">ਸ਼ਿਕਾਇਤਾਂ &amp;\nਫੀਡਬੈਕ</string>
+    <string name = "recent_activites">ਹਾਲੀਆ ਸਰਗਰਮੀਆਂ</string>
+    <string name="viewMore">ਹੋਰ ਦੇਖੋ</string>
+    <string name="localOrganisation">ਸੰਗਠਨ ਚੁਣੋ</string>
+    <string name="search">ਖੋਜ</string>
+
+    <string name="complaintsSlashfeedback">ਸ਼ਿਕਾਇਤਾਂ/ਫੀਡਬੈਕ</string>
+    <string name="AllComplaintsFeedback">ਸਾਰੀਆਂ ਸ਼ਿਕਾਇਤਾਂ/ਫੀਡਬੈਕ</string>
+    <string name="do_you_have_localOrgnaization">ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਸੰਗਠਨ ਨਾਲ ਜੁੜੇ ਹੋ?</string>
+    <string name="apply">ਲਾਗੂ ਕਰੋ</string>
+
+
+
+
+
+
+
+    <string name="first_nameStar">ਪਹਿਲਾ ਨਾਂ*</string>
+    <string name="last_nameStar">ਆਖਰੀ ਨਾਂਮ*</string>
+    <string name="mobileNumberStar">ਮੋਬਾਇਲ ਨੰਬਰ*</string>
+    <string name="YourPasswordStar">ਤੁਹਾਡਾ ਪਾਸਵਰड*</string>
+    <string name="enterOtpStar">ਇੱਥੇ ਓਟੀਪੀ ਦਰਜ ਕਰੋ*</string>
+
+    <string name="createPasswordStar">ਪਾਸਵਰਡ ਬਣਾਓ*</string>
+    <string name="reEnterPasswordStar">ਪਾਸਵਰਡ ਪੱਕਾ ਕਰੋ*</string>
+
+    <string name="father_s_first_nameStar">ਪਿਤਾ ਦਾ ਪਹਿਲਾ ਨਾਮ*</string>
+    <string name="father_s_last_nameStar">ਪਿਤਾ ਦਾ ਆਖਰੀ ਨਾਮ*</string>
+    <string name="genderStar">ਲਿੰਗ*</string>
+    <string name="date_of_birthStar">ਜਨਮ ਤਾਰੀਖ*</string>
+    <string name="social_categoryStar">वर्ग*</string>
+    <string name="education_qualifacationStar">ਸਿੱਖਿਆ ਯੋਗਤਾ*</string>
+    <string name="select_stateStar">ਰਾਜ*</string>
+    <string name="select_districtStar">ਜ਼ਿਲ੍ਹਾ*</string>
+    <string name="municipality_panchayatStar">ਮਿਉਂਸਪੈਲਟੀ / ਨਗਰਪਾਲਿਕਾ*</string>
+    <string name="select_pincodeStar">ਪਿੰਨ ਕੋਡ*</string>
+    <string name="marital_statusStar">ਵਿਵਾਹਿਕ ਦਰਜਾ*</string>
+    <string name="spouse_s_nameStar">ਪਤੀ / ਪਤਨੀ ਦਾ ਨਾਮ*</string>
+
+    <string name="address_mention_villageStar">ਪਤਾ (ਪਿੰਡ ਦਾ ਜ਼ਿਕਰ ਕਰੋ)*</string>
+    <string name="upload_mediaStar">ਮੀਡੀਆ ਅੱਪਲੋਡ ਕਰੋ*</string>
+
+    <string name="type_of_market_placeStar">ਮਾਰਕੀਟ ਸਥਾਨ ਦੀ ਕਿਸਮ*</string>
+    <string name="type_of_vendingStar">ਵਿਕਰੇਤਾ ਦੀ ਕਿਸਮ*</string>
+    <string name="total_years_of_vendingStar">ਵਿਕਰੇਤਾ ਦੇ ਕੁੱਲ ਸਾਲ*</string>
+    <string name="enter_market_placeStar">ਮਾਰਕੀਟ ਪਲੇਸ ਵਿੱਚ ਦਾਖਲ ਹੋਵੋ*</string>
+    <string name="enter_vendingStar">ਵੇਂਡਿੰਗ ਦਾਖਲ ਕਰੋ*</string>
+
+    <string name="openStar">ਖੋਲ੍ਹੋ*</string>
+    <string name="closeStar">ਬੰਦ ਕਰੋ*</string>
+
+    <string name="localOrganisationStar">ਸੰਗਠਨ ਚੁਣੋ*</string>
+
+    <string name="the_verify_code_will_expire_in_00_59">%s</string>
+    <string name="your_Profile">ਤੁਹਾਡਾ ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="personal_detailsFull">ਨਿੱਜੀ ਵੇਰਵੇ</string>
+    <string name="contact_details">ਸੰਪਰਕ ਵੇਰਵੇ</string>
+    <string name = "other_details">ਹੋਰ ਵੇਰਵੇ</string>
+
+
+    <string name="close_x">ਬੰਦ ਕਰੋ X</string>
+    <string name="x_close">X ਬੰਦ ਕਰੋ</string>
+    <string name="app_version_1_0">ਐਪ ਸੰਸਕਰਣ %s</string>
+    <string name="notices">ਨੋਟਿਸ</string>
+    <string name = "training">ਸਿਖਲਾਈ</string>
+    <string name = "information_center">ਜਾਣਕਾਰੀ ਕੇਂਦਰ</string>
+    <string name="membership_details">ਮੈਂਬਰਸ਼ਿਪ ਵੇਰਵੇ</string>
+    <string name="current_addressStar">ਮੌਜੂਦਾ ਪਤਾ*</string>
+    <string name="is_your_permanent_residence_same_as_current_residenceStar">ਕੀ ਤੁਹਾਡੀ ਸਥਾਈ ਨਿਵਾਸ ਮੌਜੂਦਾ ਰਿਹਾਇਸ਼ ਦੇ ਸਮਾਨ ਹੈ?*</string>
+    <string name="current_location_of_businessStar">ਕਾਰੋਬਾਰ ਦਾ ਮੌਜੂਦਾ ਟਿਕਾਣਾ*</string>
+    <string name="trackingId">ਟਰੈਕਿੰਗ ਆਈ.ਡੀ.: %s</string>
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="app_settings">ਐਪ ਸੈਟਿੰਗਾਂ</string>
+    <string name="select_language">ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="notifications">ਸੂਚਨਾਵਾਂ</string>
+    <string name="profile_settings">ਪ੍ਰੋਫਾਈਲ ਸੈਟਿੰਗਾਂ</string>
+    <string name="change_password">ਪਾਸਵਰਡ ਬਦਲੋ</string>
+    <string name="logout_account">ਲਾਗਆਊਟ ਖਾਤਾ</string>
+    <string name="delete_your_account">ਆਪਣਾ ਖਾਤਾ ਮਿਟਾਓ</string>
+    <string name="delete_account">ਖਾਤਾ ਮਿਟਾਓ</string>
+    <string name="delete">ਮਿਟਾਓ</string>
+    <string name="edit">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="select_your_choice">ਆਪਣੀ ਪਸੰਦ ਚੁਣੋ</string>
+    <string name = "register_complaint"> ਸ਼ਿਕਾਇਤ ਦਰਜ ਕਰੋ</string>
+    <string name="subject_of_complaint">ਸ਼ਿਕਾਇਤ ਦਾ ਵਿਸ਼ਾ</string>
+
+    <string name="type_here">ਇੱਥੇ ਟਾਈਪ ਕਰੋ</string>
+    <string name="your_name">ਤੁਹਾਡਾ ਨਾਮ</string>
+    <string name="your_full_name">ਤੁਹਾਡਾ ਪੂਰਾ ਨਾਮ</string>
+    <string name="your_mobile_number">ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਨੰਬਰ</string>
+    <string name="description">ਵਰਣਨ</string>
+    <string name="are_you_sure_you_want_to_logout_your_account">ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਲੌਗਆਊਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="write_something">ਕੁਝ ਲਿਖੋ</string>
+    <string name="active">ਕਿਰਿਆਸ਼ੀਲ</string>
+    <string name="live">ਲਾਈਵ</string>
+    <string name="download_membership_card">ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="venderDetails"><b>ਵੈਂਡਰ ਵੇਰਵੇ:</b> %s</string>
+    <string name="current_vending_addressStar">ਮੌਜੂਦਾ ਵਿਕਰੇਤਾ ਪਤਾ*</string>
+    <string name="membership_Id">ਮੈਂਬਰਸ਼ਿਪ ਆਈ.ਡੀ.:</string>
+    <string name="valid_Upto">ਵੈਧ ਤੱਕ:</string>
+    <string name="passport_size_imageStar">ਪਾਸਪੋਰਟ ਆਕਾਰ ਚਿੱਤਰ*</string>
+    <string name = "shop_imageStar">ਸ਼ੌਪ ਚਿੱਤਰ*</string>
+    <string name="identity_imageStar">ਪਛਾਣ ਚਿੱਤਰ*</string>
+    <string name="membership_id">ਮੈਂਬਰਸ਼ਿਪ ਆਈ.ਡੀ.</string>
+    <string name="schemes_like_pm_swanidhi_yojna_etc">ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਸਵਾਨਿਧੀ ਯੋਜਨਾ ਆਦਿ ਵਰਗੀਆਂ ਯੋਜਨਾਵਾਂ</string>
+
+    <string name = "otp_sent"> OTP ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨੰਬਰ +91-%s \'ਤੇ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ</string>
+    <string name="user_already_exist">ਉਪਭੋਗਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ</string>
+    <string name="otp_Verified_successfully">OTP ਸਫਲਤਾਪੂਰਵਕ ਪ੍ਰਮਾਣਿਤ</string>
+    <string name="invalid_OTP">ਅਵੈਧ OTP</string>
+
+    <string name="survey_receipt">ਸਰਵੇਖਣ ਰਸੀਦ</string>
+    <string name="challan">ਚਾਲਾਨ</string>
+    <string name="approval_letter_from_municipality">ਨਗਰਪਾਲਿਕਾ ਤੋਂ ਮਨਜ਼ੂਰੀ ਪੱਤਰ</string>
+    <string name="select_state_">ਰਾਜ ਚੁਣੋ</string>
+    <string name = "select_district_">ਜ਼ਿਲ੍ਹਾ ਚੁਣੋ</string>
+    <string name="municipality_panchayat_">ਨਗਰਪਾਲਿਕਾ/ਪੰਚਾਇਤ ਚੁਣੋ</string>
+
+    <string name="not_state">ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਰਾਜ ਨਹੀਂ ਹੈ</string>
+    <string name="not_district">ਤੁਹਾਡਾ ਕੋਈ ਜ਼ਿਲ੍ਹਾ ਨਹੀਂ ਹੈ</string>
+    <string name="not_municipality_panchayat">ਤੁਹਾਡੇ ਕੋਲ ਨਗਰਪਾਲਿਕਾ/ਪੰਚਾਇਤ ਨਹੀਂ ਹੈ</string>
+    <string name="not_pincode">ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪਿਨਕੋਡ ਨਹੀਂ ਹੈ</string>
+    <string name="not_Organisation">ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਸੰਗਠਨ ਨਹੀਂ ਹੈ</string>
+    <string name="saveUpdate">ਸੇਵ ਕਰੋ &amp; ਅੱਪਡੇਟ ਕਰੋ</string>
+
+    <string name="current_Vending_Address_underline"><u>ਮੌਜੂਦਾ ਵੈਂਡਿੰਗ ਪਤਾ:</u></string>
+    <string name="associated_organizationSemi">ਸਬੰਧਤ ਸੰਸਥਾ:</string>
+    <string name="firstNameSemi">ਪਹਿਲਾ ਨਾਮ:</string>
+    <string name="lastNameSemi">ਆਖਰੀ ਨਾਮ:</string>
+    <string name = "genderSemi"> ਲਿੰਗ:</string>
+    <string name="dobSemi">D.O.B:</string>
+    <string name="mobileSemi">ਮੋਬਾਈਲ:</string>
+    <string name="typeofVendingSemi">ਵੇਡਿੰਗ ਦੀ ਕਿਸਮ:</string>
+    <string name="typeofMarketPlaceSemi">ਮਾਰਕੀਟ ਪਲੇਸ ਦੀ ਕਿਸਮ:</string>
+    <string name="stateSemi">ਰਾਜ:</string>
+    <string name="districtSemi">ਜ਼ਿਲ੍ਹਾ:</string>
+    <string name="municipalitySemi">ਨਗਰਪਾਲਿਕਾ:</string>
+    <string name="addressSemi">ਪਤਾ:</string>
+    <string name="membershipIDSemi">ਮੈਂਬਰਸ਼ਿਪ ID: %s</string>
+    <string name = "validUptoSemi"> ਤੱਕ ਵੈਧ: %s</string>
+    <string name="successfully_downloaded">ਸਫਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤਾ</string>
+    <string name="logged_in_successfully">ਸਫਲਤਾ ਨਾਲ ਲੌਗਇਨ ਕੀਤਾ</string>
+    <string name="please_provide_valid_password">ਕਿਰਪਾ ਕਰਕੇ ਵੈਧ ਪਾਸਵਰਡ ਪ੍ਰਦਾਨ ਕਰੋ</string>
+    <string name="user_does_not_exist">ਉਪਭੋਗਤਾ ਮੌਜੂਦ ਨਹੀਂ ਹੈ</string>
+
+    <string name="tap_to_reload">ਰੀਲੋਡ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="error_msg_unknown">ਇੱਕ ਅਣਕਿਆਸੀ ਤਰੁੱਟੀ ਆਈ</string>
+    <string name="registration_processed">VEGASEGA SOLUTIONS ਦੁਆਰਾ ਸਟ੍ਰੀਟ ਸਾਰਥੀ \'ਤੇ ਰਜਿਸਟਰ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਤੁਹਾਡੀ ਪੁਸ਼ਟੀਕਰਨ ਪ੍ਰਕਿਰਿਆ ਅਧੀਨ ਹੈ। ਤੁਹਾਡੀ ਰਜਿਸਟ੍ਰੇਸ਼ਨ 2 ਤੋਂ 3 ਕੰਮਕਾਜੀ ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਪ੍ਰਕਿਰਿਆ ਕੀਤੀ ਜਾਵੇਗੀ।</string>
+    <string name="view">ਵੇਖੋ</string>
+    <string name="watch">ਦੇਖੋ</string>
+    <string name="applied">ਲਾਗੂ ਕੀਤਾ</string>
+    <string name="not_applied">ਲਾਗੂ ਨਹੀਂ ਕੀਤਾ</string>
+    <string name = "not_live"> ਲਾਈਵ ਨਹੀਂ</string>
+    <string name="expired">ਮਿਆਦ ਸਮਾਪਤ</string>
+    <string name="start_date">ਸ਼ੁਰੂ ਕਰਨ ਦੀ ਮਿਤੀ %s</string>
+    <string name = "end_date"> ਸਮਾਪਤੀ ਮਿਤੀ %s</string>
+    <string name="clear_all">ਸਭ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="all_information">ਸਾਰੀ ਜਾਣਕਾਰੀ</string>
+    <string name="view_details">ਵੇਰਵੇ ਦੇਖੋ</string>
+    <string name="valid_date">ਵੈਧ ਮਿਤੀ</string>
+    <string name="status">ਸਥਿਤੀ</string>
+
+    <string name="nothing_here_right_now">ਇਸ ਵੇਲੇ ਇੱਥੇ ਕੁਝ ਨਹੀਂ</string>
+    <string name="currently_no_schemes"> ਵਰਤਮਾਨ ਵਿੱਚ, ਇੱਥੇ ਕੋਈ ਸਕੀਮਾਂ ਨਹੀਂ ਮਿਲੀਆਂ ਹਨ। ਜਦੋਂ ਉਹ ਉਪਲਬਧ ਹੋਣ ਤਾਂ ਤੁਸੀਂ ਸਕੀਮਾਂ ਲਈ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹੋ।</string>
+    <string name="currently_no_notice">ਵਰਤਮਾਨ ਵਿੱਚ, ਇੱਥੇ ਕੋਈ ਨੋਟਿਸ ਨਹੀਂ ਮਿਲਿਆ ਹੈ। ਜਦੋਂ ਉਹ ਉਪਲਬਧ ਹੋਣ ਤਾਂ ਤੁਸੀਂ ਨੋਟਿਸ ਲਈ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹੋ।</string>
+    <string name="currently_no_training">ਵਰਤਮਾਨ ਵਿੱਚ, ਇੱਥੇ ਕੋਈ ਸਿਖਲਾਈ ਨਹੀਂ ਮਿਲਦੀ ਹੈ। ਜਦੋਂ ਉਹ ਉਪਲਬਧ ਹੋਣ ਤਾਂ ਤੁਸੀਂ ਸਿਖਲਾਈ ਲਈ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹੋ।</string>
+    <string name = "currently_no_notifications"> ਵਰਤਮਾਨ ਵਿੱਚ, ਇੱਥੇ ਕੋਈ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਮਿਲੀਆਂ ਹਨ।</string>
+    <string name = "currently_no_information"> ਵਰਤਮਾਨ ਵਿੱਚ, ਇੱਥੇ ਕੋਈ ਜਾਣਕਾਰੀ ਨਹੀਂ ਮਿਲੀ ਹੈ।</string>
+    <string name="currently_no_complaints">ਵਰਤਮਾਨ ਵਿੱਚ, ਇੱਥੇ ਕੋਈ ਸ਼ਿਕਾਇਤ/ਫੀਡਬੈਕ ਨਹੀਂ ਮਿਲਦੀਆਂ ਹਨ।</string>
+    <string name="submit_feedback">ਫੀਡਬੈਕ ਜਮ੍ਹਾਂ ਕਰੋ</string>
+    <string-array name="type_array">
+        <item>ਸ਼ਿਕਾਇਤ ਦਰਜ ਕਰੋ</item>
+        <item>ਫੀਡਬੈਕ ਸਪੁਰਦ ਕਰੋ</item>
+    </string-array>
+    <string name="type">ਕਿਸਮ</string>
+    <string name="select_complaint_type">ਸ਼ਿਕਾਇਤ ਦੀ ਕਿਸਮ ਚੁਣੋ</string>
+    <string name="subject_of_feedback">ਫੀਡਬੈਕ ਦਾ ਵਿਸ਼ਾ</string>
+    <string name="not_complaint_type">ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਸ਼ਿਕਾਇਤ ਕਿਸਮ ਨਹੀਂ ਹੈ</string>
+    <string name = "tracking_id">ਟਰੈਕਿੰਗ ID</string>
+    <string name="feedback">ਫੀਡਬੈਕ</string>
+    <string name="complaint">ਸ਼ਿਕਾਇਤ</string>
+    <string name="Pleaseentertextormedia">ਕਿਰਪਾ ਕਰਕੇ ਟੈਕਸਟ ਜਾਂ ਮੀਡੀਆ ਦਾਖਲ ਕਰੋ</string>
+
+    <string name = "re_open">ਮੁੜ-ਖੋਲ੍ਹੋ</string>
+    <string name="pending">ਬਕਾਇਆ</string>
+    <string name="resolved">ਹੱਲ ਕੀਤਾ</string>
+    <string name = "in_progress"> ਜਾਰੀ ਹੈ</string>
+    <string name="close_conversation">ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਗੱਲਬਾਤ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="open_conversation">ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਗੱਲਬਾਤ ਨੂੰ ਖੋਲ੍ਹਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="are_your_sure_want_to_delete">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਹੋ, ਤੁਸੀਂ ਆਪਣਾ ਖਾਤਾ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="are_your_sure_want_to_turn_Off">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ \'ਤੇ ਸੂਚਨਾ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="are_your_sure_want_to_turn_On">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ \'ਤੇ ਸੂਚਨਾ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="reset_password">ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ</string>
+    <string name="enter_new_password_for_login">ਲੌਗਇਨ ਲਈ ਨਵਾਂ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ</string>
+    <string name="newPasswordStar">ਨਵਾਂ ਪਾਸਵਰਡ*</string>
+    <string name="reEnterNewPasswordStar">ਨਵਾਂ ਪਾਸਵਰਡ ਦੁਬਾਰਾ ਦਰਜ ਕਰੋ*</string>
+
+    <string name="typeColon">ਕਿਸਮ:</string>
+    <string name="registration_dateColon">ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਮਿਤੀ:</string>
+    <string name="subjectColon">ਵਿਸ਼ਾ:</string>
+    <string name="complaint_typeColon">ਸ਼ਿਕਾਇਤ ਦੀ ਕਿਸਮ:</string>
+
+    <string name="message_by_admin">ਪ੍ਰਬੰਧਕ ਦੁਆਰਾ ਸੁਨੇਹਾ</string>
+    <string name="message_by_member">ਮੈਂਬਰ ਦੁਆਰਾ ਸੁਨੇਹਾ</string>
+    <string name="admin_txt">ਪ੍ਰਬੰਧਕ</string>
+    <string name="member_txt">ਮੈਂਬਰ</string>
+
+    <string name="conversation_marked_Close">ਇਸ ਵਾਰਤਾਲਾਪ ਨੂੰ ਮੈਂਬਰ ਦੁਆਰਾ ਬੰਦ ਚਿੰਨ੍ਹਿਤ ਕੀਤਾ ਗਿਆ ਸੀ</string>
+    <string name="conversation_marked_reOpen">ਇਸ ਵਾਰਤਾਲਾਪ ਨੂੰ ਮੈਂਬਰ ਦੁਆਰਾ ਰੀ-ਓਪਨ ਵਜੋਂ ਚਿੰਨ੍ਹਿਤ ਕੀਤਾ ਗਿਆ ਸੀ</string>
+    <string name="are_your_sure_want_to_delete_all_notifications">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਹੋ, ਤੁਸੀਂ ਸਾਰੀਆਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="required_permissions">ਕਿਰਪਾ ਕਰਕੇ ਸਾਰੀਆਂ ਲੋੜੀਂਦੀਆਂ ਇਜਾਜ਼ਤਾਂ ਦਿਓ?</string>
+    <string name="notification_not_enabled">ਤੁਹਾਡੀ ਸੂਚਨਾ ਸਮਰੱਥ ਨਹੀਂ ਹੈ</string>
+    <string name="request_delete">ਤੁਹਾਡੀ ਬੇਨਤੀ ਲਈ ਧੰਨਵਾਦ। ਤੁਹਾਡਾ ਖਾਤਾ 2 – 3 ਕੰਮਕਾਜੀ ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="profile_updated_successfully">ਪ੍ਰੋਫਾਈਲ ਸਫਲਤਾਪੂਰਵਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name="change_mobile_number">ਮੋਬਾਈਲ ਨੰਬਰ ਬਦਲੋ</string>
+    <string name="enter_new_mobile_number_for_login">ਲੌਗਇਨ ਲਈ ਨਵਾਂ ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ</string>
+    <string name="mobile_number_updated_successfully">ਮੋਬਾਈਲ ਨੰਬਰ ਸਫਲਤਾਪੂਰਵਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name = "mobile_does_not_exist"> ਮੋਬਾਈਲ ਨੰਬਰ ਮੌਜੂਦ ਨਹੀਂ ਹੈ</string>
+
+    <string name = "training_type">ਸਿਖਲਾਈ</string>
+    <string name="notice_type">ਨੋਟਿਸ</string>
+    <string name="scheme_type">ਸਕੀਮ</string>
+    <string name="vendor_details_type">ਵਿਕਰੇਤਾ ਵੇਰਵੇ</string>
+    <string name = "information_type">ਜਾਣਕਾਰੀ</string>
+    <string name="feedback_type">ਫੀਡਬੈਕ</string>
+    <string name="complaint_type">ਸ਼ਿਕਾਇਤ</string>
+    <string name="training_title">ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਨਵੀਂ ਸਿਖਲਾਈ ਹੈ</string>
+    <string name="notice_title">ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਨਵਾਂ ਨੋਟਿਸ ਹੈ</string>
+    <string name="scheme_title">ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਨਵੀਂ ਸਕੀਮ ਹੈ</string>
+    <string name="vendor_details_title">ਵਧਾਈਆਂ! ਤੁਹਾਡੀ ਪ੍ਰੋਫਾਈਲ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦੇ ਦਿੱਤੀ ਗਈ ਹੈ</string>
+    <string name="feedback_title">ਤੁਹਾਡੇ ਫੀਡਬੈਕ \'ਤੇ ਇੱਕ ਜਵਾਬ ਹੈ</string>
+    <string name="complaint_title">ਤੁਹਾਡੇ ਕੋਲ ਤੁਹਾਡੀ ਸ਼ਿਕਾਇਤ ਦਾ ਜਵਾਬ ਹੈ</string>
+    <string name="information_title">ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਨਵੀਂ ਜਾਣਕਾਰੀ ਹੈ</string>
+    <string name="network_failed_please_try_again">ਨੈੱਟਵਰਕ ਅਸਫਲ ਰਿਹਾ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!</string>
+    <string name = "try_again"> ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="back_to_login_u"><u>ਲੌਗਇਨ ਕਰਨ ਲਈ ਵਾਪਸ</u></string>
+    <string name="complaint_added_successfully">ਸ਼ਿਕਾਇਤ ਸਫਲਤਾਪੂਰਵਕ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ</string>
+    <string name="feedback_added_successfully">ਫੀਡਬੈਕ ਸਫਲਤਾਪੂਰਵਕ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ</string>
+    <string name="congratulations">ਵਧਾਈਆਂ!</string>
+    <string name="your_initial_registration_is_complete">ਤੁਹਾਡੀ ਸ਼ੁਰੂਆਤੀ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਪੂਰੀ ਹੋ ਗਈ ਹੈ।</string>
+    <string name="need_to_add_complete_profile">ਸ਼ਿਕਾਇਤ/ਫੀਡਬੈਕ ਦਰਜ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਆਪਣਾ ਪ੍ਰੋਫਾਈਲ ਪੂਰਾ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="conversation_marked_admin">ਇਸ ਗੱਲਬਾਤ ਨੂੰ %s ਦੁਆਰਾ %s ਨੂੰ ਮਾਰਕ ਕੀਤਾ ਗਿਆ ਸੀ</string>
+    <string name="something_went_wrong">ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ!</string>
+    <string name = "nominee_details"> ਨਾਮਜ਼ਦ ਵੇਰਵੇ</string>
+    <string name="list_of_nominee">ਨਾਮਜ਼ਦ ਦੀ ਸੂਚੀ</string>
+    <string name="relationship_TypeStar">ਰਿਸ਼ਤੇ ਦੀ ਕਿਸਮ*</string>
+    <string name="nameStar">ਨਾਮ*</string>
+    <string-array name="relation_array" >
+        <item>ਪਿਤਾ</item>
+        <item>ਮਾਂ</item>
+        <item>ਪੁੱਤ</item>
+        <item>ਧੀ</item>
+        <item>ਭੈਣ</item>
+        <item>ਭਰਾ</item>
+        <item>ਪਤੀ</item>
+        <item>ਪਤਨੀ</item>
+    </string-array>
+    <string name = "select_nominee_type"> ਨਾਮਜ਼ਦ ਦੀ ਕਿਸਮ ਚੁਣੋ</string>
+    <string name = "enter_nominee_name"> ਨਾਮਜ਼ਦ ਵੇਰਵੇ ਦਰਜ ਕਰੋ</string>
+    <string name="nominee_added_updated_successfully">ਨਾਮਜ਼ਦ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਜੋੜਿਆ/ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name = "add_edit">ਸ਼ਾਮਲ/ਸੋਧ</string>
+    <string name='re_open_info'>ਮੁੜ-ਖੋਲ੍ਹੋ</string>
+    <string name="close_info">ਬੰਦ ਕਰੋ</string>
+    <string name='conversation_marked_admin_open_hi'>ਇਸ ਵਾਰਤਾਲਾਪ ਨੂੰ %s ਦੁਆਰਾ %s ਦੁਆਰਾ ਚਿੰਨ੍ਹਿਤ ਕੀਤਾ ਗਿਆ ਸੀ</string>
+    <string name='conversation_marked_admin_close_hi'>ਇਸ ਵਾਰਤਾਲਾਪ ਨੂੰ %s ਦੁਆਰਾ %s ਦੁਆਰਾ ਚਿੰਨ੍ਹਿਤ ਕੀਤਾ ਗਿਆ ਸੀ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+
+    <string name = "closed">ਬੰਦ</string>
+
+
+     <string name="subscription">ਗਾਹਕੀ</string>
+     <string name="view_manage">ਦੇਖੋ/ਪ੍ਰਬੰਧ ਕਰੋ</string>
+     <string name="history">ਇਤਿਹਾਸ</string>
+
+ <string name="select_month_year">ਮਹੀਨਾ/ਸਾਲ ਚੁਣੋ</string>
+ <string name="choose_number">ਮਿਆਦ ਚੁਣੋ</string>
+ <string name="month">ਮਹੀਨਾ</string>
+ <string name="year">ਸਾਲ</string>
+ <string name="calculate_price">ਕੀਮਤ ਦੀ ਗਣਨਾ ਕਰੋ</string>
+ <string name="price_breakup">ਕੀਮਤ ਬ੍ਰੇਕਅੱਪ</string>
+ <string name = "membership_cost">ਮੈਂਬਰਸ਼ਿਪ ਦੀ ਲਾਗਤ</string>
+ <string name="validity">ਵੈਧਤਾ</string>
+ <string name="gst">GST (%s)</string>
+ <string name = "coupon_discount">ਕੂਪਨ ਛੋਟ (%s)</string>
+ <string name = "total_cost">ਕੁੱਲ ਲਾਗਤ</string>
+ <string name = "purchase_subscription"> ਗਾਹਕੀ ਖਰੀਦੋ</string>
+ <string name="months">ਮਹੀਨੇ</string>
+ <string name="years">ਸਾਲ</string>
+ <string name="s_no">ਸ.ਨੰ.</string>
+    <string name="date">ਮਿਤੀ ਅਤੇ ਸਮਾਂ</string>
+ <string name = "transaction_id"> ਲੈਣ-ਦੇਣ ID</string>
+ <string name="duration">ਮਿਆਦ</string>
+
+    <string-array name="month_year_array">
+        <item>ਮਹੀਨਾ</item>
+        <item>ਸਾਲ</item>
+    </string-array>
+
+    <string name="subscription_details">ਗਾਹਕੀ ਵੇਰਵੇ</string>
+    <string name="please_select_month_year_and_number">ਕਿਰਪਾ ਕਰਕੇ ਮਹੀਨਾ/ਸਾਲ ਅਤੇ ਮਿਆਦ ਚੁਣੋ</string>
+    <string name="days">%s ਦਿਨ</string>
+
+    <string name="more_information">ਹੋਰ ਜਾਣਕਾਰੀ</string>
+    <string name = "about_us">ਸਾਡੇ ਬਾਰੇ</string>
+    <string name="privacy_policy">ਗੋਪਨੀਯਤਾ ਨੀਤੀ</string>
+    <string name="terms_conditions"><![CDATA[ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ]]></string>
+    <string name="rate_our_app">ਸਾਡੀ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ</string>
+    <string name="share_our_app">ਸਾਡੀ ਐਪ ਨੂੰ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="app_update">ਐਪ ਅੱਪਡੇਟ</string>
+    <string name="new_version_available_1_0">ਨਵਾਂ ਸੰਸਕਰਣ ਉਪਲਬਧ %s</string>
+    <string name="expired_account_message">ਤੁਹਾਡੀ ਗਾਹਕੀ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਸਮੁੱਚੀਆਂ ਸੇਵਾਵਾਂ ਲਈ ਆਪਣੇ ਖਾਤੇ ਦੀ ਗਾਹਕੀ ਲਓ।</string>
+    <string name = "subscribe_now">ਹੁਣੇ ਗਾਹਕ ਬਣੋ</string>
+
+    <string name="membership_title">ਤੁਹਾਡੀ ਮੈਂਬਰਸ਼ਿਪ ਦੀ ਮਿਆਦ ਸਮਾਪਤ ਹੋ ਗਈ ਹੈ</string>
+    <string name="subscription_type">ਗਾਹਕੀ</string>
+    <string name="need_to_add_complete_subscription">ਤੁਹਾਨੂੰ ਗਾਹਕੀ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣਾ ਪ੍ਰੋਫਾਈਲ ਪੂਰਾ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="order_id">ਆਰਡਰ ਆਈਡੀ</string>
+    <string name = "please_calculate_price">ਕਿਰਪਾ ਕਰਕੇ ਕੀਮਤ ਦੀ ਗਣਨਾ ਕਰੋ</string>
+    <string name="user_id">ਯੂਜ਼ਰ ਆਈਡੀ</string>
+    <string name="plan_type">ਯੋਜਨਾ ਦੀ ਕਿਸਮ</string>
+    <string name="payment_method">ਭੁਗਤਾਨ ਵਿਧੀ</string>
+    <string name="payment_status">ਭੁਗਤਾਨ ਸਥਿਤੀ</string>
+    <string name = "net_amount">ਕੁੱਲ ਰਕਮ</string>
+    <string name = "total_amount">ਕੁੱਲ ਰਕਮ</string>
+    <string name="currently_no_transaction_history">ਵਰਤਮਾਨ ਵਿੱਚ, ਇੱਥੇ ਕੋਈ ਲੈਣ-ਦੇਣ ਇਤਿਹਾਸ ਨਹੀਂ ਮਿਲਿਆ।</string>
+    <string name="download_invoice">ਇਨਵੌਇਸ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="duration_indays">ਅਵਧੀ (ਦਿਨ)</string>
+    <string name="subscription_added_successfully">ਗਾਹਕੀ ਸਫਲਤਾਪੂਰਵਕ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ</string>
+    <string name="share_content">🌟 ਹੇ ਗਲੀ ਦੇ ਵਿਕਰੇਤਾਓ! 🌟 ਹੁਣੇ ਤੁਹਾਡੇ ਸਾਰਿਆਂ ਨਾਲ ਸਟ੍ਰੀਟ ਸਾਰਥੀ ਐਪ ਸਾਂਝੀ ਕੀਤੀ ਹੈ। ਇਹ ਸਾਡੇ ਕਾਰੋਬਾਰਾਂ ਲਈ ਇੱਕ ਗੇਮ-ਚੇਂਜਰ ਹੈ, ਜੋ ਪ੍ਰਫੁੱਲਤ ਕਰਨ ਲਈ ਜ਼ਰੂਰੀ ਸਾਧਨ ਅਤੇ ਸਰੋਤ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ। ਆਉ ਇੱਕ ਦੂਜੇ ਨੂੰ ਤਾਕਤਵਰ ਕਰੀਏ ਅਤੇ ਸਾਡੀਆਂ ਆਵਾਜ਼ਾਂ ਨੂੰ ਸੁਣਾਈਏ! 💼🛒 #StreetSaarthi #EmpoweringStreetVendors #UnityInBusiness</string>
+    <string name="discount">ਛੋਟ (%s)</string>
+
+<!--    <string name="_amount_in_words">ਸ਼ਬਦਾਂ ਵਿੱਚ ਰਕਮ:</string>-->
+    <string name = "_rupees">ਰੁਪਏ</string>
+    <string name="_and">ਅਤੇ</string>
+    <string name = "_paise"> ਪੈਸੇ</string>
+    <string name="_only">ਸਿਰਫ਼</string>
+
+    <string name="_year">ਸਾਲ</string>
+    <string name="_years">ਸਾਲ</string>
+    <string name="_month">ਮਹੀਨਾ</string>
+    <string name="_months">ਮਹੀਨੇ</string>
+    <string name="_week">ਹਫ਼ਤਾ</string>
+    <string name="_weeks">ਹਫ਼ਤੇ</string>
+    <string name="_day">ਦਿਨ</string>
+    <string name="_days">ਦਿਨ</string>
+
+
+
+    <string name="enable_gps">GPS ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="required_for_this_app">ਇਸ ਐਪ ਲਈ ਲੋੜੀਂਦਾ</string>
+    <string name="enable_now">ਹੁਣੇ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="location_permission_not_granted">ਸਥਾਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਗਈ</string>
+
+    <string name="geoClickby">ਕਲਿੱਕ ਕਰੋ: </string>
+    <string name="geAddress">ਪਤਾ: </string>
+    <string name="geoLatLng">ਲੈਟਲੋਂਗ: </string>
+    <string name="geoDateTime">ਤਾਰੀਖ ਸਮਾਂ: </string>
+    <string name="make_payment">ਭੁਗਤਾਨ ਕਰੋ</string>
+
+    <string name="skip">ਛੱਡੋ</string>
+    <string name="insurance_policy">ਬੀਮਾ ਪਾਲਿਸੀ?</string>
+    <string name="pm_swanidhi_yojna">ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਸਵਾਨਿਧੀ ਯੋਜਨਾ ਲਈ ਅਰਜ਼ੀ ਦਿਓ</string>
+
+    <string name="help">ਮਦਦ</string>
+
+</resources>

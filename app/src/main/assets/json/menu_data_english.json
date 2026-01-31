@@ -1,0 +1,96 @@
+{
+  "menu": [
+    {
+      "name": "Dashboard",
+      "headlines": [
+
+      ]
+    },
+    {
+      "name": "Profile",
+      "headlines": [
+
+      ]
+    },
+    {
+      "name": "Notifications",
+      "headlines": [
+
+      ]
+    },
+    {
+      "name": "Membership Details",
+      "headlines": [
+
+      ]
+    },
+    {
+      "name": "Schemes",
+      "headlines": [
+        {
+          "title": "Live Schemes"
+        },
+        {
+          "title": "All Schemes"
+        }
+      ]
+    },
+    {
+      "name": "Notices",
+      "headlines": [
+        {
+          "title": "Live Notices"
+        },
+        {
+          "title": "All Notices"
+        }
+      ]
+    },
+    {
+      "name": "Training",
+      "headlines": [
+        {
+          "title": "Live Training"
+        },
+        {
+          "title": "All Training"
+        }
+      ]
+    },
+    {
+      "name": "Complaints/Feedback",
+      "headlines": [
+        {
+          "title": "Create New"
+        },
+        {
+          "title": "History"
+        }
+      ]
+    },
+    {
+      "name": "Information Center",
+      "headlines": [
+
+      ]
+    },
+    {
+      "name": "Subscription",
+      "headlines": [
+
+      ]
+    },
+    {
+      "name": "Settings",
+      "headlines": [
+
+      ]
+    },
+    {
+      "name": "Help",
+      "headlines": [
+
+      ]
+    }
+  ]
+}

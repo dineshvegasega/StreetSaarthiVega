@@ -491,7 +491,7 @@ fun Context.dp(@DimenRes dimen: Int): Float = px(dimen) / resources.displayMetri
 
 
 fun String.relationType(array: Array<String>): String {
-    "" + this.let {
+    return this.let {
         return when (it) {
             "father" -> {
                 array[0]
